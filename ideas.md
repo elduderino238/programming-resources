@@ -24,7 +24,7 @@
 7. **Old school demo effects** (Plasma, Tunnel, Scrollers, Zoomers, etc)
 8. **Fizzbuzz**
 9. **RPN Calculator**
-10. **Count occurences of characters in a given string**
+10. **Count occurrences of characters in a given string**
 11. **Towers of Hanoi**
 12. **Calculator the first n digits of pi**
 13. **Given an array of stock values over time, find the period of time where the stocks could have made the most money**
@@ -145,7 +145,7 @@
 17. **Monster raising/breeding simulator**
 18. **Dragon quest / basic RPG engine**
 19. **First person engine in OpenGL**
-20. **Wolfensetin clone**
+20. **Wolfenstein clone**
 21. **Danmaku engine**
 22. **Roguelike engine/dungeon generator**
 23. **Go**
