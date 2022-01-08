@@ -114,7 +114,7 @@
 60. **Sudoku**
 61. **Chess**
 62. **Mastermind**
-63. **Missle command game**
+63. **Missile command game**
 64. **Tron**
 65. **Breakout**
 66. **Bellman-Ford simulation with at least five vertices**
