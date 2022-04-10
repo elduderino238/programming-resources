@@ -128,6 +128,7 @@ In spite of the fact that many of these won't apply to your specific job I still
 * Programming Perl: Unmatched Power for Text Processing and Scripting
 * Dive into Python 3
 * why's (poignant) guide to Ruby
+* Automate the Boring Stuff with Python
 
 ## Senior Level Software Engineer Reading List
 ### Read This First
