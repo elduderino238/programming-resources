@@ -103,7 +103,7 @@
 47. **Double pendulum simulation**
 48. **Constructive solid geometry**
 49. **Generate a 5-colour scheme from the most dominant tones in an image**
-50. **N-body simulator** - with particles having a certain mass and radius depdning on the mass that merge if they collide
+50. **N-body simulator** - with particles having a certain mass and radius depending on the mass that merge if they collide
 51. **Knight's tour**
 52. **Tetris**
 53. **Pipe dreams**
