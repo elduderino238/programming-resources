@@ -9,10 +9,9 @@
 - [Awesome for Beginners](https://github.com/MunGell/awesome-for-beginners)
 - [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 - [Rosetta Code](http://rosettacode.org/wiki/Category:Programming_Tasks)
-- [Epic List Of Side Project Ideas For Programmers](https://livingliferichly.com/epic-list-of-side-project-ideas-for-programmers)
-- [5 project ideas](https://medium.com/@JohanneA/5-project-ideas-for-programmers-who-dont-know-what-to-work-on-next-51fdb191cbde)
+- [5 Project Ideas](https://medium.com/@JohanneA/5-project-ideas-for-programmers-who-dont-know-what-to-work-on-next-51fdb191cbde)
 - [49 Ideas for Game Clones to Code](https://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
-- [Game Clone Challenges](https://github.com/rby90/game-clone-challenges)
+- [Xetera's Programming Ideas List](https://xetera.notion.site/xetera/Programming-Ideas-079a80edd23748c897e9e47835ad6b4a)
 
 ## Programming Challenges
 
