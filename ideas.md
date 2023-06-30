@@ -2,7 +2,6 @@
 
 ## An extended list of project ideas:
 - [20 Exciting Software Development Project Ideas & Topics for Beginners](https://www.upgrad.com/blog/software-development-project-ideas-topics-for-beginners/)
-- [40 Side Project Ideas for Software Engineers](https://www.codementor.io/npostolovski/40-side-project-ideas-for-software-engineers-g8xckyxef)
 - [Make your own...](https://github.com/danistefanovic/build-your-own-x)
 - [Practical Projects](https://github.com/karan/Projects)
 - [1000+ Beginner Programming Projects](https://www.reddit.com/r/learnprogramming/comments/2a9ygh/1000_beginner_programming_projects_xpost/)
