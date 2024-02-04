@@ -1,5 +1,5 @@
 # Programming Resources
-Collection of resources for programmers brought to you by [The Programmers Hanogut](https://discord.gg/programming)!
+Collection of resources for programmers brought to you by [The Programmers Hangout](https://discord.gg/programming)!
 
 If you are starting out and want to follow a curriculum for CS, you can check out the following resources:
 
